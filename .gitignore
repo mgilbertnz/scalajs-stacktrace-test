@@ -1,0 +1,7 @@
+.idea
+target
+server/target
+application/server/logs
+client/target
+project/target
+project/project/target
